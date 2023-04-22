@@ -1,0 +1,26 @@
+[
+    {
+        "package": "atsalibrary",
+        "url": "https://github.com/atsa-es/atsalibrary"
+    },
+    {
+        "package": "atsar",
+        "url": "https://github.com/atsa-es/atsar"
+    },
+    {
+        "package": "sdmTMB",
+        "url": "https://github.com/pbs-assess/sdmTMB"
+    },
+    {
+        "package": "varlasso",
+        "url": "https://github.com/atsa-es/varlasso"
+    },
+    {
+        "package": "mvdlm",
+        "url": "https://github.com/atsa-es/mvdlm"
+    },
+    {
+        "package": "tvvarss",
+        "url": "https://github.com/atsa-es/tvvarss"
+    }    
+]
