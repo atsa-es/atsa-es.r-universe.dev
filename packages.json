@@ -8,10 +8,6 @@
         "url": "https://github.com/atsa-es/atsar"
     },
     {
-        "package": "sdmTMB",
-        "url": "https://github.com/pbs-assess/sdmTMB"
-    },
-    {
         "package": "varlasso",
         "url": "https://github.com/atsa-es/varlasso"
     },
