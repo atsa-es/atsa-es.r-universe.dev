@@ -20,11 +20,11 @@
         "url": "https://github.com/atsa-es/tvvarss"
     },
     {
-        "package": "tvvarss",
+        "package": "marssTMB",
         "url": "https://github.com/atsa-es/marssTMB"
     },
     {
-        "package": "tvvarss",
+        "package": "MARSS",
         "url": "https://github.com/atsa-es/MARSS"
     }    
 ]
