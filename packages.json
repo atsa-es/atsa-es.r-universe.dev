@@ -26,5 +26,9 @@
     {
         "package": "MARSS",
         "url": "https://github.com/atsa-es/MARSS"
+    },
+    {
+        "package": "bayesdfa",
+        "url": " https://fate-ewi.github.io/bayesdfa/"
     }    
 ]
