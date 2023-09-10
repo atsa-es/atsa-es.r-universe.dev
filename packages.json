@@ -30,5 +30,9 @@
     {
         "package": "bayesdfa",
         "url": "https://github.com/fate-ewi/bayesdfa"
-    }    
+    },
+    {
+        "package": "maxnet",
+        "url": "https://github.com/BigelowLab/maxnet"
+    }
 ]
