@@ -34,5 +34,9 @@
     {
         "package": "maxnet",
         "url": "https://github.com/BigelowLab/maxnet"
+    },
+    {
+        "package": "MAR1",
+        "url": "https://github.com/atsa-es/MAR1"
     }
 ]
